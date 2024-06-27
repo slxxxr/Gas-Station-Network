@@ -640,35 +640,6 @@ def main():
     auth_employee()
     start_query()
 
-    # add_client()
-    # update_client()
-
-    # add_employee()
-    # delete_employee(1)
-
-    # count_employees_by_city()
-
-    # add_delivery()
-
-    # delete_delivery(1)
-
-    # update_delivery()
-
-    # count_deliveries_by_fuel()
-
-    # add_order(1,None,24819, 41520152,2,12,12,'2022-09-03 11:22:22','card')
-    # add_order()
-
-    # delete_order(1)
-
-    # update_order(1,None,None,None,3)
-
-    # total_sold_fuel('2022-12-12','2023-1-14')
-
-    # total_sold_fuel_by_month('2020-1-12', '2021-5-31')
-
-    # total_sold_fuel_by_city('2020-1-12','2021-5-31')
-
     connection_close()
 
 
